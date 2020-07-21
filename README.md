@@ -1,5 +1,7 @@
-# bapp
-For blocking browser (Use this application wisely)
+# bapp - Block browser app (tested Windows 7 x64)
+For blocking all browser in Windows (Use this application wisely)
 
 If you running this application
-  When you open a browser that has been blocked, the browser will automatically close (Not all process, only you open it)
+  When you open a browser, the browser will automatically close
+
+**The .zip file contains the Visual Studio 2017 project folder. You can use it right inside the "bin" folder and find the bapp.exe**
