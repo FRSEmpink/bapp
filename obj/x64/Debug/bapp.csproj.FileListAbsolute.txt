@@ -1,0 +1,14 @@
+C:\Users\OPERATOR\source\repos\bapp\bin\x64\Debug\bapp.exe.config
+C:\Users\OPERATOR\source\repos\bapp\bin\x64\Debug\bapp.exe
+C:\Users\OPERATOR\source\repos\bapp\bin\x64\Debug\bapp.pdb
+C:\Users\OPERATOR\source\repos\bapp\obj\x64\Debug\bapp.csprojAssemblyReference.cache
+C:\Users\OPERATOR\source\repos\bapp\obj\x64\Debug\bapp.bapp.resources
+C:\Users\OPERATOR\source\repos\bapp\obj\x64\Debug\bapp.Properties.Resources.resources
+C:\Users\OPERATOR\source\repos\bapp\obj\x64\Debug\bapp.csproj.GenerateResource.cache
+C:\Users\OPERATOR\source\repos\bapp\obj\x64\Debug\bapp.csproj.CoreCompileInputs.cache
+C:\Users\OPERATOR\source\repos\bapp\obj\x64\Debug\bapp.exe
+C:\Users\OPERATOR\source\repos\bapp\obj\x64\Debug\bapp.pdb
+C:\Users\OPERATOR\source\repos\bapp\bin\x64\Debug\bapp.exe.manifest
+C:\Users\OPERATOR\source\repos\bapp\bin\x64\Debug\bapp.application
+C:\Users\OPERATOR\source\repos\bapp\obj\x64\Debug\bapp.exe.manifest
+C:\Users\OPERATOR\source\repos\bapp\obj\x64\Debug\bapp.application

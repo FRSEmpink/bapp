@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bapp", "bapp.csproj", "{FD9E52B3-75A6-4A03-AE6D-10AF55B99394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD9E52B3-75A6-4A03-AE6D-10AF55B99394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD9E52B3-75A6-4A03-AE6D-10AF55B99394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD9E52B3-75A6-4A03-AE6D-10AF55B99394}.Debug|x64.ActiveCfg = Debug|x64
+		{FD9E52B3-75A6-4A03-AE6D-10AF55B99394}.Debug|x64.Build.0 = Debug|x64
+		{FD9E52B3-75A6-4A03-AE6D-10AF55B99394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD9E52B3-75A6-4A03-AE6D-10AF55B99394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD9E52B3-75A6-4A03-AE6D-10AF55B99394}.Release|x64.ActiveCfg = Release|x64
+		{FD9E52B3-75A6-4A03-AE6D-10AF55B99394}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8B067AB-DFD4-4D6C-9EEB-79E641DCE123}
+	EndGlobalSection
+EndGlobal
